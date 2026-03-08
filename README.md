@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Adi 👋
 
-<!--
-**adimiler111/adimiler111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineering and Management student interested in Data Analytics, Business Intelligence, Product and Project Management.
 
-Here are some ideas to get you started:
+I enjoy building data-driven systems and dashboards that help organizations make better operational and business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Data & Analytics
+- Python
+- SQL
+- Power BI
+- Excel
+- Data Analysis
+- Data Visualization
+- Data Modeling
+- Streamlit
+
+### Product & Project Management
+- Project planning (WBS, Gantt, PERT)
+- Requirements analysis
+- Process analysis and system design
+- Operations optimization
+- Data-driven decision making
+
+## Projects
+- **Football BI Analytics Dashboard** – Power BI dashboard analyzing football performance data.
+- **Employee Shift Scheduling System** – Python + Streamlit system for automatic employee shift assignment.
+
+## Currently Learning
+- Advanced SQL
+- Data Engineering basics
+- Business Intelligence
+- Product thinking and analytics
+
+## Contact
+LinkedIn  
+https://www.linkedin.com/in/adi-miler1
