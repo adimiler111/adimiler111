@@ -4,35 +4,55 @@ Industrial Engineering and Management student interested in Data Analytics, Busi
 
 I enjoy building data-driven systems and dashboards that help organizations make better operational and business decisions.
 
-## Skills
+---
 
-### Data & Analytics
-- Python
-- SQL
-- Power BI
-- Excel
-- Data Analysis
-- Data Visualization
-- Data Modeling
-- Streamlit
+## 🧠 Skills
 
-### Product & Project Management
+### 📊 Data & Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=excel" />
+<img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+- Power BI  
+- SQL  
+- Python  
+- Data Analysis  
+- Data Visualization  
+- Data Modeling  
+- Streamlit  
+
+---
+
+### 📦 Product & Project Management
 - Project planning (WBS, Gantt, PERT)
 - Requirements analysis
 - Process analysis and system design
 - Operations optimization
 - Data-driven decision making
 
-## Projects
-- **Football BI Analytics Dashboard** – Power BI dashboard analyzing football performance data.
-- **Employee Shift Scheduling System** – Python + Streamlit system for automatic employee shift assignment.
+---
 
-## Currently Learning
+## 🚀 Projects
+
+**Football BI Analytics Dashboard**  
+Power BI dashboard analyzing football performance data.
+
+**Employee Shift Scheduling System**  
+Python + Streamlit system for automatic employee shift assignment.
+
+---
+
+## 📚 Currently Learning
 - Advanced SQL
 - Data Engineering basics
 - Business Intelligence
-- Product thinking and analytics
+- Product analytics
 
-## Contact
+---
+
+## 🔗 Contact
 LinkedIn  
 https://www.linkedin.com/in/adi-miler1
