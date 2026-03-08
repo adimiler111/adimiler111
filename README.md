@@ -8,22 +8,19 @@ I enjoy building data-driven systems and dashboards that help organizations make
 
 ## 🧠 Skills
 
-### 📊 Data & Analytics
+## 📊 Data & Analytics
+
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=excel" />
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=python,postgres,github" />
 </p>
 
-- Power BI  
-- SQL  
-- Python  
-- Data Analysis  
-- Data Visualization  
-- Data Modeling  
-- Streamlit  
-
+- Power BI
+- SQL
+- Python
+- Data Analysis
+- Data Visualization
+- Data Modeling
+- Streamlit
 ---
 
 ### 📦 Product & Project Management
