@@ -1,10 +1,5 @@
 # Hi, I'm Adi 👋
 
-Industrial Engineering and Management student interested in Data Analytics, Business Intelligence, Product and Project Management.
-
-I enjoy building data-driven systems and dashboards that help organizations make better operational and business decisions.
-
----
 ## 👨‍💻 About Me
 
 Industrial Engineering and Management student interested in Data Analytics, Business Intelligence, Product and Project Management.
